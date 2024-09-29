@@ -24,3 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldomf&show_icons=true&locale=en" alt="aldomf" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldomf&" alt="aldomf" /></p>
